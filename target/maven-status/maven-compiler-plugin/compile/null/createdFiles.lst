@@ -1,0 +1,4 @@
+org/eskcti/GreetingResource.class
+org/eskcti/response/Result.class
+org/eskcti/resources/ProductResource.class
+org/eskcti/dto/Product.class
